@@ -9,3 +9,5 @@ total = 0
 arr.each do |num|
     total += num
 end
+
+puts total
