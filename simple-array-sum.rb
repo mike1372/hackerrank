@@ -1,4 +1,4 @@
-# Note the below three lines were supplied by Nackerrank
+# Note the below three lines were supplied by Hackerrank
 
 n = gets.strip.to_i
 arr = gets.strip

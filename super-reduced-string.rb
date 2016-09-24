@@ -1,3 +1,5 @@
+# This does not pass all test cases
+
 input = gets.chomp
 
 counter = 0
